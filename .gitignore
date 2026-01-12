@@ -1,2 +1,3 @@
 # IntelliJ / PyCharm
 .idea/
+src/__pycache__
